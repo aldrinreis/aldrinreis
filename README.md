@@ -1,6 +1,6 @@
 ## Olá eu sou o Aldrin Reis.
 
-<div>
+<div >
   <a href="https://github.com/aldrinreis">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldrinreis&layout=compact&theme=dark&langs_count=16"/>
 </div>
@@ -31,9 +31,10 @@
 </div>
 
 <div style="display: inline_block"> 
-  <a href="https://www.instagram.com/aldrin_reis/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/aldrin-reis-6534a016b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:aldrinreisdemorais@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/aldrin-reis-6534a016b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/aldrin_reis/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.facebook.com/aldrin.reis/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
 </div>
 
   
