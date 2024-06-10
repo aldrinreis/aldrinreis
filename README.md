@@ -1,3 +1,7 @@
 ## Olá eu sou o Aldrin Reis.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldrinreis)](https://github.com/aldrinreis/github-readme-stats)
+<div>
+  <a href="https://github.com/aldrinreis">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aldrinreis&show_icons=true&theme-dracula&include_all_commits-true&count_private=true"/>
+    <img/>
+</div>
