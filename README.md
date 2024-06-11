@@ -11,24 +11,24 @@ Granduando em Engenharia de Software, viso atuar como desenvolvedor.
   <br>
   <br>
   <div>
-  <img align="center" alt="Aldrin-JS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img align="center" alt="Aldrin-NODE" height="50" width="50" color="white" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>
-  <img align="center" alt="Aldrin-EXPRESS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg"/>
-  <img align="center" alt="Aldrin-SEQUELIZE" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original-wordmark.svg"/>
-  <img align="center" alt="Aldrin-POSTGRE" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"/>
+  <img align="center" alt="Aldrin-JS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Aldrin-NODE" height="50" width="50" color="white" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Aldrin-EXPRESS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Aldrin-SEQUELIZE" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original-wordmark.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Aldrin-POSTGRE" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Aldrin-MYSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
   </div>
   <br>
   <div>
-  <img align="center" alt="Aldrin-LINUX" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
-  <img align="center" alt="Aldrin-ASTERISK" height="50" width="70" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Asterisk_logo.svg"/>
+  <img align="center" alt="Aldrin-LINUX" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Aldrin-ASTERISK" height="50" width="70" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Asterisk_logo.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Aldrin-VOIP" height="50" width="50" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/voip-telephony-2159213-1814599.png?f=webp&w=256"/>
   </div>
   
   <br>
   <div >
-  <img align="center" alt="Aldrin-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img align="center" alt="Aldrin-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img align="center" alt="Aldrin-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Aldrin-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Aldrin-BOOTSTRAP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"/>
   </div>
   <hr>  
