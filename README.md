@@ -48,7 +48,7 @@ Granduando em Engenharia de Software, viso atuar como desenvolvedor.
 <div>
   <a href="https://github.com/aldrinreis">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldrinreis&layout=compact&theme=dark&langs_count=16"/>
-    <img height="180em" src="ttps://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aldrinreis&theme=dark"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aldrinreis&theme=dark"/>
 </div>
 <br>
 <br>
