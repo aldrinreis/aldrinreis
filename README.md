@@ -24,7 +24,7 @@ Granduando em Engenharia de Software, viso atuar como desenvolvedor.
   <img align="center" alt="Aldrin-ASTERISK" height="50" width="70" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Asterisk_logo.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Aldrin-VOIP" height="50" width="50" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/voip-telephony-2159213-1814599.png?f=webp&w=256"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Aldrin-git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Aldrin-github" color="withe" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Aldrin-github" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
     
   </div>
   
